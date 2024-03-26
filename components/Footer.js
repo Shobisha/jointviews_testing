@@ -155,7 +155,7 @@ const Footer = () => {
                       style={{ paddingLeft: "7px", paddingRight: "7px" }}
                     >
                       <a
-                        href="https://www.jointviews.com/blog/tools-for-online-reputation-monitoring/"
+                        href="/blog/tools-for-online-reputation-monitoring/"
                         className="blog-link"
                       >
                         <div className="blog-img">
@@ -342,29 +342,29 @@ const Footer = () => {
         <div className=" footer-bottom">
           <div className="container footer-bottomsss ">
             <div className="col-xs-12  footer-icons" style={{ padding: "0" }}>
-              <div className=" round">
+              <div className=" round-fb">
                 <a href="https://www.facebook.com/JointviewsOnline">
                   <span className=" ">
                     <FaFacebookF className="iconwhite" />
                   </span>
                 </a>
               </div>
-              <div className=" round">
+              <div className=" round-twtr">
                 <a href="https://twitter.com/jointviews">
                   <FaTwitter className="iconwhite" />
                 </a>
               </div>
-              <div className=" round">
+              <div className=" round-lnkdin">
                 <a href="https://www.linkedin.com/company/jointviews">
                   <FaLinkedinIn className="iconwhite" />
                 </a>
               </div>
-              <div className=" round">
+              <div className=" round-ytub">
                 <a href="https://www.youtube.com/channel/UCRTEEcjpgpuGqn5gHb7lsww">
                   <TfiYoutube className="iconwhite" />
                 </a>
               </div>
-              <div className=" round">
+              <div className=" round-gogl">
                 <a href="https://plus.google.com/101427006384699171862">
                   <FaGooglePlusG className="iconwhite" />
                 </a>

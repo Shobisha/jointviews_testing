@@ -957,6 +957,7 @@
 .pagecontwrap-port {
   float: left;
   width: 100%;
+  background-color: white;
 }
 .portfoliofilter-port {
   list-style: none outside none;

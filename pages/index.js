@@ -9,7 +9,7 @@ export default function HomePage() {
         <title>Jointview.com</title>
       </Head>
 
-      <section className="banner-in ">
+      <section className="banner-in  margintop">
         <div className="container">
           <img src="/images/banner.png" alt="Banner" className="imgsize" />
           <div className="bannerimginfo-in"></div>

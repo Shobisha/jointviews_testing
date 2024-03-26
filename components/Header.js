@@ -39,7 +39,7 @@ export default function Header() {
   }, []);
   return (
     <>
-      <div className="header-top-wrap ">
+      <div className="header-top-wrap  ">
         <div className="container ">
           <div className="   fullrow  ">
             <div className="col-sm-10 col-xs-12  ">
