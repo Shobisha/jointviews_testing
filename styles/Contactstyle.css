@@ -88,7 +88,7 @@
   float: left;
   display: inline;
   padding: 14px 20px 15px 26px;
-  background: url("../public/Images/breadcrumb_divider.jpg") no-repeat left;
+  background: url("../public/images/breadcrumb_divider.jpg") no-repeat left;
 }
 
 .breadcrumb {
@@ -106,7 +106,7 @@
 .breadcrumbulli {
   display: inline-block;
   padding: 14px 20px;
-  background: url("../public/Images/breadcrumb_divider.jpg") no-repeat left;
+  background: url("../public/images/breadcrumb_divider.jpg") no-repeat left;
 }
 
 .breadcrumbulli:first-child {
